@@ -51,6 +51,8 @@ user@DESKTOP:opencv$ make install
 
 ## Testing the OpenCV library
 
+All source files mentioned below are included in this repository, so recreating them is not necessary. Building the Makefile and compiling will still need to be done. 
+
 <details><summary><b>Using OpenCV to view webcam feed</b></summary>
 
 This will be our first time testing the installed OpenCV library using C++. We can begin by making an example script to open a webcam on our computers.
