@@ -51,7 +51,7 @@ user@DESKTOP:opencv$ make install
 
 ## Testing the OpenCV library
 
-All source files mentioned below are included in this repository, so recreating them is not necessary. Building the Makefile and compiling will still need to be done. 
+All source files mentioned below are included in this repository, so recreating them is not necessary. Building the Makefile and compiling it will still need to be done. 
 
 <details><summary><b>Using OpenCV to view webcam feed</b></summary>
 
