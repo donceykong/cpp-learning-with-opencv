@@ -1,3 +1,17 @@
+# large DNN model files
+yolov3.weights
+
+# Cmake/Make files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+MakeFile
+
+# Executables
+DisplayWebcam
+FaceDetect
+DnnObjectDetect
+
 # Prerequisites
 *.d
 
@@ -30,3 +44,6 @@
 *.exe
 *.out
 *.app
+
+# MacOS 
+.DS_Store
