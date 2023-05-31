@@ -1,6 +1,6 @@
 # Learning C++ with the OpenCV Library
 
-## Installing OpenCV library and Installing 
+## Building OpenCV library and Installing 
 
 <details><summary><b>Clone the OpenCV library</b></summary>
 
