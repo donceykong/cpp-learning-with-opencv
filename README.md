@@ -51,7 +51,7 @@ user@DESKTOP:opencv$ make install
 
 ## Testing the OpenCV library
 
-<details><summary><b>Using Traditional ML for Face Detection</b></summary>
+<details><summary><b>Using OpenCV to view webcam feed</b></summary>
 
 This will be our first time testing the installed OpenCV library using C++. We can begin by making an example script to open a webcam on our computers.
 
